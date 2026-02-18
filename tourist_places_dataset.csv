@@ -1,0 +1,61 @@
+city,place_name,place_category,best_time_to_visit,entry_fee,budget_type
+Chennai,Marina Beach,Beach,Evening,0,Low
+Chennai,Kapaleeshwarar Temple,Spiritual,Morning,0,Low
+Chennai,Fort St. George,Heritage,Morning,30,Medium
+Chennai,DakshinaChitra,Cultural,Afternoon,150,High
+Coimbatore,Adiyogi Shiva,Spiritual,Evening,0,Low
+Coimbatore,Gedee Car Museum,Museum,Afternoon,75,Medium
+Coimbatore,Marudhamalai Temple,Spiritual,Morning,0,Low
+Coimbatore,Isha Yoga Center,Spiritual,Morning,0,Medium
+Madurai,Meenakshi Amman Temple,Spiritual,Morning,0,Low
+Madurai,Thirumalai Nayak Palace,Heritage,Evening,50,Medium
+Madurai,Gandhi Memorial Museum,Museum,Afternoon,0,Low
+Madurai,Samanar Hills,Heritage,Evening,0,Low
+Trichy,Rockfort Temple,Spiritual,Morning,10,Low
+Trichy,Sri Ranganathaswamy Temple,Spiritual,Morning,0,Low
+Trichy,Kallanai Dam,Dam/Picnic,Afternoon,0,Low
+Trichy,Tropical Butterfly Conservatory,Nature,Morning,20,Medium
+Bengaluru,Cubbon Park,Park,Morning,0,Low
+Bengaluru,Lalbagh Botanical Garden,Nature,Morning,25,Medium
+Bengaluru,Bangalore Palace,Heritage,Afternoon,480,High
+Bengaluru,Bannerghatta Biological Park,Wildlife,Morning,300,High
+Hyderabad,Charminar,Heritage,Evening,25,Medium
+Hyderabad,Golconda Fort,Heritage,Morning,25,Medium
+Hyderabad,Salar Jung Museum,Museum,Afternoon,50,Medium
+Hyderabad,Ramoji Film City,Theme Park,Morning,1450,High
+Jaipur,Amer Fort,Heritage,Morning,200,Medium
+Jaipur,Hawa Mahal,Heritage,Morning,50,Medium
+Jaipur,City Palace,Heritage,Afternoon,300,High
+Jaipur,Jantar Mantar,Heritage,Afternoon,50,Medium
+Jaipur,Birla Mandir,Spiritual,Evening,0,Low
+Jaipur,Nahargarh Fort,Heritage,Evening,50,Medium
+Agra,Taj Mahal,Heritage,Morning,50,Medium
+Agra,Agra Fort,Heritage,Afternoon,50,Medium
+Agra,Mehtab Bagh,Nature,Evening,25,Low
+Agra,Fatehpur Sikri,Heritage,Morning,50,Medium
+Agra,Akbar's Tomb,Heritage,Afternoon,30,Low
+Agra,Wildlife SOS,Wildlife,Morning,1500,High
+Mumbai,Gateway of India,Monument,Morning,0,Low
+Mumbai,Marine Drive,Beach,Evening,0,Low
+Mumbai,Elephanta Caves,Heritage,Morning,600,High
+Mumbai,Siddhivinayak Temple,Spiritual,Morning,0,Low
+Mumbai,Chhatrapati Shivaji Maharaj Museum,Museum,Afternoon,150,Medium
+Mumbai,Hanging Gardens,Park,Evening,0,Low
+Pune,Shaniwar Wada,Heritage,Evening,25,Low
+Pune,Aga Khan Palace,Heritage,Morning,25,Low
+Pune,Dagdusheth Halwai Ganpati,Spiritual,Morning,0,Low
+Pune,Raja Dinkar Kelkar Museum,Museum,Afternoon,100,Medium
+Pune,Sinhagad Fort,Heritage,Morning,50,Medium
+Pune,Wet N Joy Water Park,Theme Park,Morning,1250,High
+Kolkata,Victoria Memorial,Heritage,Morning,60,Medium
+Kolkata,Dakshineswar Kali Temple,Spiritual,Morning,0,Low
+Kolkata,Howrah Bridge,Monument,Evening,0,Low
+Kolkata,Indian Museum,Museum,Afternoon,75,Medium
+Kolkata,Eco Park,Nature,Evening,30,Low
+Kolkata,Nicco Park,Theme Park,Morning,1000,High
+Bhopal,Upper Lake,Nature,Evening,0,Low
+Bhopal,Sanchi Stupa,Heritage,Morning,40,Medium
+Bhopal,Van Vihar National Park,Wildlife,Morning,50,Medium
+Bhopal,Bhimbetka Caves,Heritage,Afternoon,25,Low
+Bhopal,Tribal Museum,Museum,Afternoon,10,Low
+Bhopal,Taj-ul-Masajid,Spiritual,Morning,0,Low
